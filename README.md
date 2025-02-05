@@ -44,6 +44,11 @@ Weather Data
 
 To run the code, you will need Python 3.x and the required dependencies specified in the `requirements.txt` file.
 
+To run code on CPU (default) : 
+- bash run_all.sh
 
+To run code on GPU : 
+- specify GPU support in exec_1/main_exec.sh
+- bash run_all 
 
  
