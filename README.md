@@ -2,7 +2,7 @@
 
 # Time Series Forecasting with Multiple Neural Network Architectures
 
-This repository provides an in-depth comparison of both existing and novel neural network architectures on the task of time series forecasting. The models are evaluated across multiple datasets, and the performance metrics are recorded for each model and dataset combination.
+This repository provides a comprehensive comparison of both existing and novel neural network architectures for time series forecasting, implemented across three forecasting approaches: local, global, and clustering-based forecasting. The models are evaluated on multiple datasets, with performance metrics recorded for each model, dataset, and forecasting approach combination.
 
 ## Overview
 
@@ -18,7 +18,7 @@ The following neural networks are evaluated on several publicly available time s
 - **SegRNN**
 - **Other novel architectures**
 
-The goal is to determine which architecture performs best across different time series data characteristics, such as seasonality, trend, and noise levels.
+The goal is to determine which architecture performs best across different time series data characteristics, across three forecasting approaches (local, global and clustering). For the forecasting approach, the clustrering algorthms used include K-Means, Optics and SOM algorithms (found in /clustering_files). 
 
 ## Datasets 
 
