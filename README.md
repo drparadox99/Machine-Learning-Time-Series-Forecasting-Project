@@ -38,10 +38,13 @@ Energy Consumption Data
 - ETTh2.csv
 - ETTm1.csv
 - ETTm2.csv
+  
 Stock Market Data
 - exchange_rate.csv
+  
 Traffic Data
 - traffic.csv
+  
 Weather Data
 - weather.csv
 
