@@ -15,6 +15,12 @@ The following neural networks are evaluated on several publicly available time s
 - **Transformer-based architectures**
 - **LTSF-Linear (NLinear,DLinear,Linear) (TCN)**
 - **Attention-based models**
+- **CNN_N_BEATS**
+- **BEATS_CELL**
+- **RLinear**
+- **RMLP**
+- **N-BEATS**
+- **Multivariate N-BEATS**
 - **SegRNN**
 - **Other novel architectures**
 
@@ -51,4 +57,11 @@ To run code on GPU :
 - specify GPU support in exec_1/main_exec.sh
 - bash run_all 
 
+ #Citing 
  
+ @inproceedings{Zeng2022AreTE,
+  title={Are Transformers Effective for Time Series Forecasting?},
+  author={Ailing Zeng and Muxi Chen and Lei Zhang and Qiang Xu},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2023}
+}
