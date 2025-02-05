@@ -20,9 +20,9 @@ The following neural networks are evaluated on several publicly available time s
 - **RLinear**
 - **RMLP**
 - **N-BEATS**
-- **Multivariate N-BEATS**
+- **Multivariate M-N-BEATS**
 - **SegRNN**
-- **Other novel architectures**
+- **Other novel architectures (found in /Models)**
 
 The goal is to determine which architecture performs best across different time series data characteristics, across three forecasting approaches (local, global and clustering). For the forecasting approach, the clustrering algorthms used include K-Means, Optics and SOM algorithms (found in /clustering_files). 
 
@@ -62,9 +62,9 @@ To run code on GPU :
 
  #Citing 
  
- @inproceedings{Zeng2022AreTE,
-  title={Are Transformers Effective for Time Series Forecasting?},
-  author={Ailing Zeng and Muxi Chen and Lei Zhang and Qiang Xu},
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2023}
-}
+Implemented papers 
+- Are Transformers Effective for Time Series Forecasting? (https://arxiv.org/pdf/2205.13504)
+- SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting (https://arxiv.org/abs/2308.11200)
+- CNN-N-BEATS: Novel Hybrid Model for Time-Series Forecasting (https://link.springer.com/chapter/10.1007/978-3-031-66694-0_3)
+- Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case (https://arxiv.org/abs/2001.08317)
+  ... 
