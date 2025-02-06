@@ -40,14 +40,15 @@ Energy Consumption Data
 - ETTm2.csv
   
 Stock Market Data
-- exchange_rate.csv
+- exchange_rate.csv 
   
-Traffic Data
+Traffic Data 
 - traffic.csv
   
-Weather Data
+Weather Data 
 - weather.csv
 
+All datasets used can be found on the kaggle plaform (https://www.kaggle.com/datasets/drparadox99/time-series-benchmark-datasets/data).
 
 ## Installation
 
