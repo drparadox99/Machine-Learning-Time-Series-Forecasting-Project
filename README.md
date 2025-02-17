@@ -4,6 +4,8 @@
 
 This repository provides a comprehensive comparison of both existing and novel neural network architectures for time series forecasting, implemented across three forecasting approaches: local, global, and clustering-based forecasting. The models are evaluated on multiple datasets, with performance metrics recorded for each model, dataset, and forecasting approach combination.
 
+[thumbnail.pdf](https://github.com/user-attachments/files/18825661/thumbnail.pdf)
+
 ## Overview
 
 Time series forecasting is a critical problem in many domains, such as finance, weather prediction, and energy consumption. This project aims to compare the performance of various neural network architectures, including traditional models like LSTM and GRU, as well as novel architectures designed for this task.
