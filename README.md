@@ -4,7 +4,8 @@
 
 This repository provides a comprehensive comparison of both existing and novel neural network architectures for time series forecasting, implemented across three forecasting approaches: local, global, and clustering-based forecasting. The models are evaluated on multiple datasets, with performance metrics recorded for each model, dataset, and forecasting approach combination.
 
-[thumbnail.pdf](https://github.com/user-attachments/files/18825661/thumbnail.pdf)
+<img width="1261" alt="Capture d’écran 2025-02-17 à 14 07 51" src="https://github.com/user-attachments/assets/fab5bc7a-3336-4dec-9a21-c5e9a5797e0d" />
+
 
 ## Overview
 
